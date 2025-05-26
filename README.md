@@ -41,15 +41,12 @@ A lo largo de mis proyectos he desarrollado experiencia práctica en distintas t
 
 # 💻 Estadisticas de GitHub
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginto11&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginto11&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginto11&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Ginto11&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+</p>
+<p align="center">
 <img align="center" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ginto11&theme=holi-theme">
 </p>
-
 
 <img width="100%" src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg"/>
 
