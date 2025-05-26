@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img width="100%" src="https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -27,23 +27,31 @@
 # 🛠️ Mis Habilidades
 A lo largo de mis proyectos he desarrollado experiencia práctica en distintas tecnologías, tanto en el frontend como en el backend.
 
-## Desarrollo Front-Ent
+## - Desarrollo Front-Ent
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
 
-## Desarrollo Back-Ent
+## - Desarrollo Back-Ent
 [![My Skills](https://skillicons.dev/icons?i=net,cs,express,nodejs,java,spring)](https://skillicons.dev)
 
-## Bases de Datos
+## - Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
-## Herramientas
+## - Herramientas
 [![My Skills](https://skillicons.dev/icons?i=git,eclipse,github,postman,visualstudio,vscode)](https://skillicons.dev)
 
-[![](https://github-readme-stats.vercel.app/api?username=Ginto11&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Ginto11&theme=material-palenight)](https://github.com/valentinawerle)
+# 💻 Estadisticas de GitHub
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginto11&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginto11&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ginto11&theme=holi-theme">
+</p>
 
 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+<img width="100%" src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg"/>
 
 
 
